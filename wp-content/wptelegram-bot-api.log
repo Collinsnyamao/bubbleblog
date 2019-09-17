@@ -64,3 +64,21 @@ Params: {"parse_mode":null,"disable_notification":false,"disable_web_page_previe
 --------------------------------
 Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
 
+[2019-09-10 15:22:33]
+Method: sendMessage
+Params: {"chat_id":"@collinsnyamao","text":"This is a test message"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-10 15:23:46]
+Method: getChatMembersCount
+Params: {"chat_id":"@collinsnyamao"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-10 15:25:06]
+Method: getChatMembersCount
+Params: {"chat_id":"@collinsnyamao"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+

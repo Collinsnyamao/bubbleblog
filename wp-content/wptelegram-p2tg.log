@@ -130,3 +130,96 @@
 [2019-09-10 10:52:19]
 {"198-auto-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
 
+[2019-09-10 12:03:36]
+{"200-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":712},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:03:43]
+{"202-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:03:43]
+{"202-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}],"201-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:03:44]
+{"202-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}],"201-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}],"204-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:03:44]
+{"202-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}],"201-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}],"204-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}],"203-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:11:04]
+{"205-auto-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:12:02]
+{"206-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:12:02]
+{"206-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"207-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:12:02]
+{"206-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"207-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"205-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:12:03]
+{"205-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":659},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:17:25]
+{"208-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:17:59]
+{"209-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:17:59]
+{"209-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"205-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:17:59]
+{"205-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":659},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:20:00]
+{"205-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:20:01]
+{"205-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":659},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:23:18]
+{"208-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:23:26]
+{"208-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:24:18]
+{"208-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":true,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:30:02]
+{"210-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:30:02]
+{"210-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"205-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:30:59]
+{"211-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:30:59]
+{"211-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"203-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:30:59]
+{"211-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"203-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406},{"hook":"before","trigger":"wp_rest_post"},{"hook":"rules","apply":false},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:31:01]
+{"203-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":659},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:36:45]
+{"212-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:36:45]
+{"212-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"133-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:37:18]
+{"203-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:38:04]
+{"213-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 12:38:04]
+{"213-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"135-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-13 13:32:20]
+{"214-auto-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
